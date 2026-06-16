@@ -90,4 +90,10 @@
 
 ---
 
+---
+
+## 相关档案索引
+
+- [031_近现代佛学研究总览](031_近现代佛学研究总览.md) — 近现代佛学总览
+
 *编纂说明：综合 de Jong 1987 A Brief History of Buddhist Studies in Europe and America; Prebish 1999 Luminous Passage: The Practice and Study of Buddhism in America; 杜继文 1993 佛教史; Lancaster 2005 "Digital Input of Buddhist Texts"。*
